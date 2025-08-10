@@ -1,2 +1,1 @@
-"This is my project.txt file" 
-Change made by team member online.
+"This is my project's main file" 
